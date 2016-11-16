@@ -1,0 +1,6 @@
+{
+  "directory": "bower_components",
+  "registry": "http://bower.herokuapp.com",
+  "proxy":"http://shruti_phatak:Shru2502&@goaproxy.persistent.co.in:8080/",
+  "https-proxy":"http://shruti_phatak:Shru2502&@goaproxy.persistent.co.in:8080/"
+}
